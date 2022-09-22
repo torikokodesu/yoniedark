@@ -54,7 +54,7 @@ input:focus {
 
 img {
 	position: absolute;
-	bottom: 40%;
+	bottom: -40%;
 	left: 115%;
 	/* filter: grayscale(100%); */
 }
